@@ -11,11 +11,12 @@ int fm_poweron()
 int fm_poweroff()
 {
 }
-
+//turn 32K clock for FM
 int fm_clockon()
 {
 }
 
+//turn off 32K clock for FM
 int fm_clockoff()
 {
 }
