@@ -1,0 +1,3 @@
+int wifi_init()
+{
+}
