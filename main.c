@@ -11,3 +11,8 @@ void before_tag()
 void after_tag()
 {
 }
+
+//add by devloper_A
+void func_A()
+{
+}
