@@ -7,3 +7,7 @@ int main()
 void before_tag()
 {
 }
+
+void after_tag()
+{
+}
