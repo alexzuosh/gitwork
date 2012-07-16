@@ -1,0 +1,3 @@
+int game_main()
+{
+}
