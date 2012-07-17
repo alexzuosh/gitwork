@@ -11,3 +11,7 @@ void before_tag()
 void after_tag()
 {
 }
+
+void init_sys()
+{
+}
