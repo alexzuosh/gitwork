@@ -15,3 +15,7 @@ void after_tag()
 void init_sys()
 {
 }
+
+void init_game()
+{
+}
