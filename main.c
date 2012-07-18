@@ -16,3 +16,7 @@ void after_tag()
 void func_A()
 {
 }
+
+void func_B()
+{
+}
