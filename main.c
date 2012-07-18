@@ -20,3 +20,7 @@ void func_A()
 void func_B()
 {
 }
+
+void func_C()
+{
+}
