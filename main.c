@@ -31,3 +31,7 @@ void func_B()
 void func_C()
 {
 }
+
+void func_D()
+{
+}
